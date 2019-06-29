@@ -1,0 +1,1 @@
+Links to pinout mapping:
